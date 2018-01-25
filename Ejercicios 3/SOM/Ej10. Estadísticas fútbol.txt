@@ -1,0 +1,11 @@
+"Atributos" "Almeria" "Athletic" "Atletico Madrid" "Barcelona" "Celta Vigo" "Cordoba" "Deportivo" "Eibar" "Elche" "Espanyol" "Getafe" "Granada" "Levante" "Malaga" "Real Sociedad" "Rayo Vallecano" "Real Madrid" "Sevilla" "Valencia" "Villarreal"
+"Partidos ganados" 8 15 23 30 13 3 7 9 11 13 10 7 9 14 11 15 30 23 22 16
+"Partidos empatados" 8 10 9 4 12 11 14 8 8 10 7 14 10 8 13 4 2 7 11 12
+"Partidos perdidos" 22 13 6 4 13 24 17 21 19 15 21 17 19 16 14 19 6 8 5 10
+"Goles favor" 35 42 67 110 47 22 35 34 35 47 33 29 34 42 44 46 118 71 70 48
+"Goles contra" 64 41 29 21 44 68 60 55 62 51 64 64 67 48 51 68 38 45 32 37
+"Asistencias" 23 26 47 72 33 12 16 26 23 30 27 16 21 26 34 29 82 45 47 32
+"Balones recuperados" 2389 2835 2584 2569 2769 2520 2612 2564 2385 2610 2598 2329 2407 2605 2561 2709 2370 2530 2564 2613
+"Balones perdidos" 3418 3899 3441 3107 3552 3517 3652 3601 3295 3666 3575 3305 3375 3613 3492 3709 3001 3349 3388 3510
+"Remates realizados" 388 433 431 623 491 387 397 351 389 373 416 380 383 453 419 479 655 450 438 496
+"Remates recibidos" 533 379 317 300 418 530 444 544 456 452 489 400 463 385 495 459 434 471 405 458
