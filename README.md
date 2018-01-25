@@ -1,2 +1,2 @@
-# Netlogo
-Netlogo exercises and projects
+# NetLogo
+NetLogo exercises and projects
